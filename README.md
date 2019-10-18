@@ -1,4 +1,4 @@
-# cs100s2019-practical07-starter
+# cs100f2019-practical07-starter
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/), this
 repository contains the solution materials for Practical 7 in Computer Science 100.
